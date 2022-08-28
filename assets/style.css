@@ -11,6 +11,9 @@
 body {
     font-family: "Raleway";
     background-color: #32273b;
+    /* background-image: url("./images/tournament.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
 }
 
 a {
